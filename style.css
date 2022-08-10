@@ -16,7 +16,6 @@ ul {
 /* FONTS */
 h1, h2, h3, .price {
   font-family: 'Roboto Serif', serif;
-  font-weight: bold;
   text-transform: uppercase;
   color: #010000;
 }
